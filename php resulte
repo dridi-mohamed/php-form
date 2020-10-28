@@ -1,0 +1,13 @@
+<html>
+
+<body>
+
+Welcome in  NovoCall <br>
+your name is : <?php echo $_POST["Name"]; ?><br>
+Your email address is: <?php echo $_POST["email"]; ?><br>
+your Password is : <?php echo $_POST["pass"]; ?><br>
+</body>
+
+</html>
+
+
